@@ -2,4 +2,18 @@
 
 :root {
   --primary: #e87a30;
+  --background: #f8f6f1;
+  --border: #e7e1da;
+  --card: #fbfaf8;
+  --secondary: #eeeae2;
+  --foreground: #2a2622;
+  --muted-foreground: #8a8075;
+  --input: #e7e1da;
+  --ring: #e87a30;
+  --accent: #45a182;
+  --primary-foreground: #ffffff;
+}
+
+body {
+  background: var(--background);
 }
